@@ -75,7 +75,7 @@ An ATS-based resume screening application designed to analyze multiple resumes a
 
 **Tech:** Python • Streamlit • NLP • PDF Processing • Pandas
 
-🔗 Repository: `YOUR_REPOSITORY_LINK`
+🔗 Repository: `https://github.com/mohdsahil23/AI-ATS-Resume-Screener`
 
 ---
 
